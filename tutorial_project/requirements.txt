@@ -1,0 +1,4 @@
+Flask==1.1.2
+Flask_SQLALchemy==2.4.4
+SQLAlchemy==1.3.18
+pyysql
